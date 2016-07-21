@@ -1,2 +1,2 @@
 # nlp100knock
-# NLP勉強会
+8月 NLP勉強会
