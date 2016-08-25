@@ -18,6 +18,7 @@ def task42(chunks):
 if __name__ == '__main__':
 
     chunks_list = task41()
+    
     for chunks in chunks_list:
         for phrase in task42(chunks):
             print phrase

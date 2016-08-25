@@ -25,6 +25,7 @@ def task40():
         # ...
         # EOS
         # ...
+        line = line.strip()
         if "\t" in line:
             surface, feature = line.split("\t")
             features = feature.split(",")
